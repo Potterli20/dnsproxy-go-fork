@@ -10,8 +10,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/AdguardTeam/dnsproxy/proxy"
-	"github.com/AdguardTeam/dnsproxy/upstream"
+	"github.com/Potterli20/dnsproxy-go-fork/proxy"
+	"github.com/Potterli20/dnsproxy-go-fork/upstream"
 	"github.com/AdguardTeam/golibs/log"
 	"github.com/AdguardTeam/golibs/netutil"
 	"github.com/ameshkov/dnscrypt/v2"
@@ -184,7 +184,7 @@ func main() {
 		// TODO(e.burkov, a.garipov):  Use flag package and remove the manual
 		// options parsing.
 		//
-		// See https://github.com/AdguardTeam/dnsproxy/issues/182.
+		// See https://github.com/Potterli20/dnsproxy-go-fork/issues/182.
 		if len(arg) > 13 {
 			if arg[:13] == "--config-path" {
 				fmt.Printf("Path: %s\n", arg[14:])
@@ -318,7 +318,7 @@ func initUpstreams(config *proxy.Config, options *Options) {
 			// upstream servers until it is possible to configure it
 			// separately.
 			//
-			// See https://github.com/AdguardTeam/dnsproxy/issues/161.
+			// See https://github.com/Potterli20/dnsproxy-go-fork/issues/161.
 			fallback, err := upstream.AddressToUpstream(f, upsOpts)
 			if err != nil {
 				log.Fatalf("cannot parse the fallback %s (%s): %s", f, options.BootstrapDNS, err)
