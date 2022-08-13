@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/AdguardTeam/dnsproxy/proxyutil"
+	"github.com/Poterli20/dnsproxy-go-fork/proxyutil"
 	"github.com/AdguardTeam/golibs/log"
 	"github.com/lucas-clemente/quic-go"
 	"github.com/miekg/dns"

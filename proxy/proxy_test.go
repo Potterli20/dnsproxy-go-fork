@@ -16,7 +16,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/AdguardTeam/dnsproxy/upstream"
+	"github.com/Poterli20/dnsproxy-go-fork/upstream"
 	glcache "github.com/AdguardTeam/golibs/cache"
 	"github.com/AdguardTeam/golibs/log"
 	"github.com/AdguardTeam/golibs/netutil"

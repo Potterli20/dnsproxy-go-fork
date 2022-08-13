@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/AdguardTeam/dnsproxy/proxyutil"
+	"github.com/Poterli20/dnsproxy-go-fork/proxyutil"
 	"github.com/AdguardTeam/golibs/log"
 	"github.com/AdguardTeam/golibs/stringutil"
 	"github.com/lucas-clemente/quic-go"
