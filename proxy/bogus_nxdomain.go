@@ -1,7 +1,7 @@
 package proxy
 
 import (
-	"github.com/Poterli20/dnsproxy-go-fork/proxyutil"
+	"github.com/Potterli20/dnsproxy-go-fork/proxyutil"
 	"github.com/miekg/dns"
 )
 
