@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Poterli20/dnsproxy-go-fork/proxyutil"
-	"github.com/Poterli20/dnsproxy-go-fork/upstream"
+	"github.com/Potterli20/dnsproxy-go-fork/proxyutil"
+	"github.com/Potterli20/dnsproxy-go-fork/upstream"
 	"github.com/ameshkov/dnscrypt/v2"
 	"github.com/lucas-clemente/quic-go"
 	"github.com/miekg/dns"
@@ -109,7 +109,7 @@ func (dctx *DNSContext) scrub() {
 	// RFC-6891 (https://tools.ietf.org/html/rfc6891) states that response
 	// mustn't contain an EDNS0 RR if the request doesn't include it.
 	//
-	// See https://github.com/Poterli20/dnsproxy-go-fork/issues/132.
+	// See https://github.com/Potterli20/dnsproxy-go-fork/issues/132.
 	if dctx.hasEDNS0 && dctx.Res.IsEdns0() == nil {
 		dctx.Res.SetEdns0(dctx.udpSize, dctx.doBit)
 	}

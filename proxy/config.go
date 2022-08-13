@@ -5,7 +5,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/Poterli20/dnsproxy-go-fork/upstream"
+	"github.com/Potterli20/dnsproxy-go-fork/upstream"
 	"github.com/AdguardTeam/golibs/errors"
 	"github.com/AdguardTeam/golibs/log"
 	"github.com/ameshkov/dnscrypt/v2"

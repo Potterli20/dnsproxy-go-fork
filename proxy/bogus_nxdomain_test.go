@@ -4,7 +4,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/Poterli20/dnsproxy-go-fork/upstream"
+	"github.com/Potterli20/dnsproxy-go-fork/upstream"
 	"github.com/AdguardTeam/golibs/netutil"
 	"github.com/AdguardTeam/golibs/testutil"
 	"github.com/miekg/dns"
