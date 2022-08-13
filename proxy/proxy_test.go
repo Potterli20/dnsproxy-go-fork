@@ -16,11 +16,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Potterli20/dnsproxy-go-fork/upstream"
 	glcache "github.com/AdguardTeam/golibs/cache"
 	"github.com/AdguardTeam/golibs/log"
 	"github.com/AdguardTeam/golibs/netutil"
 	"github.com/AdguardTeam/golibs/testutil"
+	"github.com/Potterli20/dnsproxy-go-fork/upstream"
 	"github.com/ameshkov/dnscrypt/v2"
 	"github.com/miekg/dns"
 	"github.com/stretchr/testify/assert"

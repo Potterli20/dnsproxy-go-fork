@@ -4,9 +4,9 @@ import (
 	"sort"
 	"time"
 
-	"github.com/Potterli20/dnsproxy-go-fork/upstream"
 	"github.com/AdguardTeam/golibs/errors"
 	"github.com/AdguardTeam/golibs/log"
+	"github.com/Potterli20/dnsproxy-go-fork/upstream"
 	"github.com/miekg/dns"
 )
 

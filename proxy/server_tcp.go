@@ -7,9 +7,9 @@ import (
 	"net"
 	"time"
 
-	"github.com/Potterli20/dnsproxy-go-fork/proxyutil"
 	"github.com/AdguardTeam/golibs/errors"
 	"github.com/AdguardTeam/golibs/log"
+	"github.com/Potterli20/dnsproxy-go-fork/proxyutil"
 	"github.com/miekg/dns"
 )
 
