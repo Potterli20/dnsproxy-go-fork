@@ -6,14 +6,15 @@ on:
     - cron: "0 20 * *  1"
 
 jobs:
-  tests:
+  go:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
       - name: Setup Go 1.x.y
         uses: actions/setup-go@main
         with:
           go-version: ^1.19.0
+      - name: Checkout codebase
+        uses: actions/checkout@main
 
       - name: Build release
         run: |-
