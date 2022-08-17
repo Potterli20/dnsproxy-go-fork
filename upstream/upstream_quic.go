@@ -218,8 +218,7 @@ func (p *dnsOverQUIC) openConnection() (conn quic.Connection, err error) {
 	}
 
 	addr := udpConn.RemoteAddr().String()
-	quicConfig := &quic.Config{
-	}
+	quicConfig := &quic.Config{}
 	conn, err = quic.DialAddrContext(context.Background(), addr, tlsConfig, quicConfig)
 	if err != nil {
 		return nil, fmt.Errorf("opening quic connection to %s: %w", p.Address(), err)
