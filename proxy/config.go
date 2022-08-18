@@ -8,7 +8,7 @@ import (
 	"github.com/AdguardTeam/golibs/errors"
 	"github.com/AdguardTeam/golibs/log"
 	"github.com/Potterli20/dnsproxy-go-fork/upstream"
-	"github.com/ameshkov/dnscrypt/v2"
+	"github.com/Potterli20/dnscrypt-go"
 )
 
 // UpstreamModeType - upstream mode

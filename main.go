@@ -14,7 +14,7 @@ import (
 	"github.com/AdguardTeam/golibs/netutil"
 	"github.com/Potterli20/dnsproxy-go-fork/proxy"
 	"github.com/Potterli20/dnsproxy-go-fork/upstream"
-	"github.com/ameshkov/dnscrypt/v2"
+	"github.com/Potterli20/dnscrypt-go"
 	goFlags "github.com/jessevdk/go-flags"
 	"gopkg.in/yaml.v3"
 )

@@ -21,7 +21,7 @@ import (
 	"github.com/AdguardTeam/golibs/netutil"
 	"github.com/AdguardTeam/golibs/testutil"
 	"github.com/Potterli20/dnsproxy-go-fork/upstream"
-	"github.com/ameshkov/dnscrypt/v2"
+	"github.com/Potterli20/dnscrypt-go"
 	"github.com/miekg/dns"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
