@@ -15,7 +15,7 @@ import (
 	"github.com/Potterli20/dnscrypt-go"
 	"github.com/Potterli20/dnsproxy-go-fork/proxy"
 	"github.com/Potterli20/dnsproxy-go-fork/upstream"
-	goFlags "github.com/jessevdk/go-flags"
+	goFlags "github.com/Potterli20/go-flags-fork"
 	"gopkg.in/yaml.v3"
 )
 
