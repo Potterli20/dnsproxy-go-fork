@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"time"
 
+	"github.com/Potterli20/dnscrypt-go"
 	"github.com/Potterli20/dnsproxy-go-fork/proxyutil"
 	"github.com/Potterli20/dnsproxy-go-fork/upstream"
-	"github.com/Potterli20/dnscrypt-go"
 	"github.com/lucas-clemente/quic-go"
 	"github.com/miekg/dns"
 )
