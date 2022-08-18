@@ -12,10 +12,6 @@ github.com/AdguardTeam/golibs v0.10.9/go.mod h1:W+5rznZa1cSNSFt+gPS7f4Wytnr9fOrd
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/Potterli20/dnscrypt-go v0.0.0-20220818045715-08ae646f3488 h1:A90sNhMAmtmJB3XeF9WnC2xH+kIpBtM75sz0Sb+1Pig=
 github.com/Potterli20/dnscrypt-go v0.0.0-20220818045715-08ae646f3488/go.mod h1:gc+tKEhs/DjsDLXvwZXGVdDQGOmQLAQXJNNyEnrPy90=
-github.com/Potterli20/go-cache v0.0.0-20220818090325-abf94c880b46 h1:1EuG/ha+pAzutXN4V//laAVeyM5wmjHJQcVZ/JsmTbo=
-github.com/Potterli20/go-cache v0.0.0-20220818090325-abf94c880b46/go.mod h1:a3fxBg5OOQEhLRvqUcH17hh1xbgQI8EaX2d2NStgKBw=
-github.com/Potterli20/go-cache v0.0.0-20220818094701-f804df2d7b57 h1:O5tDH8flcq2VVflrE4kDP3Ocdqkkg9Tc/RidqRImX7Q=
-github.com/Potterli20/go-cache v0.0.0-20220818094701-f804df2d7b57/go.mod h1:a3fxBg5OOQEhLRvqUcH17hh1xbgQI8EaX2d2NStgKBw=
 github.com/Potterli20/go-flags-fork v0.0.0-20220818045805-f6dd5579db4e h1:j1aCiZrm427EqtRJMWvUHGSG0NKHDvDj/2/jvsthAj8=
 github.com/Potterli20/go-flags-fork v0.0.0-20220818045805-f6dd5579db4e/go.mod h1:JM7y/Hca2qdpKk1x0DqscfsqGFfcXBW0rdgf78mftwk=
 github.com/aead/chacha20 v0.0.0-20180709150244-8b13a72661da h1:KjTM2ks9d14ZYCvmHS9iAKVt9AyzRSqNU1qabPih5BY=
@@ -188,8 +184,6 @@ golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9/go.mod h1:LzIPMQfyMNhhGPh
 golang.org/x/crypto v0.0.0-20220817201139-bc19a97f63c8 h1:GIAS/yBem/gq2MUqgNIzUHW7cJMmx3TGZOrnyYaNQ6c=
 golang.org/x/crypto v0.0.0-20220817201139-bc19a97f63c8/go.mod h1:IxCIyHEi3zRg3s0A5j5BB6A9Jmi73HwBIUl50j+osU4=
 golang.org/x/exp v0.0.0-20190121172915-509febef88a4/go.mod h1:CJ0aWSM057203Lf6IL+f9T1iT9GByDxfZKAQTCR3kQA=
-golang.org/x/exp v0.0.0-20220722155223-a9213eeb770e h1:+WEEuIdZHnUeJJmEUjyYC2gfUMj69yZXw17EnHg/otA=
-golang.org/x/exp v0.0.0-20220722155223-a9213eeb770e/go.mod h1:Kr81I6Kryrl9sr8s2FK3vxD90NdsKWRuOIl2O4CvYbA=
 golang.org/x/lint v0.0.0-20180702182130-06c8688daad7/go.mod h1:UVdnD1Gm6xHRNCYTkRU2/jEulfH38KcIWyp/GAMgvoE=
 golang.org/x/lint v0.0.0-20181026193005-c67002cb31c3/go.mod h1:UVdnD1Gm6xHRNCYTkRU2/jEulfH38KcIWyp/GAMgvoE=
 golang.org/x/lint v0.0.0-20190227174305-5b3e6a55c961/go.mod h1:wehouNa3lNwaWXcvxsM5YxQ5yQlVC4a0KAMCusXpPoU=
@@ -328,3 +322,5 @@ honnef.co/go/tools v0.0.0-20190102054323-c2f93a96b099/go.mod h1:rf3lG4BRIbNafJWh
 honnef.co/go/tools v0.0.0-20190106161140-3f1c8253044a/go.mod h1:rf3lG4BRIbNafJWhAfAdb/ePZxsR/4RtNHQocxwk9r4=
 sourcegraph.com/sourcegraph/go-diff v0.5.0/go.mod h1:kuch7UrkMzY0X+p9CRK03kfuPQ2zzQcaEFbx8wA8rck=
 sourcegraph.com/sqs/pbtypes v0.0.0-20180604144634-d3ebe8f20ae4/go.mod h1:ketZ/q3QxT9HOBeFhu6RdvsftgpsbFHBF5Cas6cDKZ0=
+zgo.at/zcache v1.2.0 h1:++0dNWOrmUBa10WSja+eHx5bEO2PzZLRY6MJlBD47yk=
+zgo.at/zcache v1.2.0/go.mod h1:xWQo2ha/bamTmx8CbfrZl9Nf8AoT5uNh2hWfbQi8TiE=
