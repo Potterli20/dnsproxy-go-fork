@@ -19,7 +19,7 @@ import (
 	"github.com/Potterli20/dnsproxy-go-fork/upstream"
 	"github.com/lucas-clemente/quic-go"
 	"github.com/miekg/dns"
-	gocache "zgo.at/zcache"
+	gocache "github.com/Potterli20/go-cache"
 )
 
 const (
