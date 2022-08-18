@@ -4,7 +4,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/ameshkov/dnscrypt/v2"
+	"github.com/Potterli20/dnscrypt-go"
 	"github.com/miekg/dns"
 	"github.com/stretchr/testify/assert"
 )
