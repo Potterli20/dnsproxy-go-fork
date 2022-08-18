@@ -17,7 +17,7 @@ import (
 	"github.com/Potterli20/dnsproxy-go-fork/fastip"
 	"github.com/Potterli20/dnsproxy-go-fork/proxyutil"
 	"github.com/Potterli20/dnsproxy-go-fork/upstream"
-	gocache "godocs.io/zgo.at/zcache"
+	gocache "zgo.at/zcache"
 	"github.com/lucas-clemente/quic-go"
 	"github.com/miekg/dns"
 )
