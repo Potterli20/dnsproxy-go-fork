@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/AdguardTeam/golibs v0.10.9
 	github.com/Potterli20/dnscrypt-go v0.0.0-20220818045715-08ae646f3488
-	github.com/Potterli20/go-cache v0.0.0-20220818090325-abf94c880b46
+	github.com/Potterli20/go-cache v0.0.0-20220818094701-f804df2d7b57
 	github.com/Potterli20/go-flags-fork v0.0.0-20220818045805-f6dd5579db4e
 	github.com/ameshkov/dnsstamps v1.0.3
 	github.com/beefsack/go-rate v0.0.0-20220214233405-116f4ca011a0
