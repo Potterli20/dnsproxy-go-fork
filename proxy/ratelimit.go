@@ -7,7 +7,7 @@ import (
 
 	"github.com/AdguardTeam/golibs/log"
 	"github.com/AdguardTeam/golibs/netutil"
-	gocache "godocs.io/zgo.at/zcache"
+	gocache "zgo.at/zcache"
 	rate "github.com/beefsack/go-rate"
 )
 
