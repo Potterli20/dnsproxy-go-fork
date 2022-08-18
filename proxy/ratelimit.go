@@ -8,7 +8,7 @@ import (
 	"github.com/AdguardTeam/golibs/log"
 	"github.com/AdguardTeam/golibs/netutil"
 	rate "github.com/beefsack/go-rate"
-	gocache "zgo.at/zcache"
+	gocache "github.com/Potterli20/go-cache"
 )
 
 func (p *Proxy) limiterForIP(ip string) any {
