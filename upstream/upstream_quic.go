@@ -218,7 +218,15 @@ func (p *dnsOverQUIC) openConnection() (conn quic.Connection, err error) {
 	}
 
 	addr := udpConn.RemoteAddr().String()
-	quicConfig := &quic.Config{}
+	quicConfig := &quic.Config{
+		// Set the keep alive interval to 20s as it would be in the
+		// quic-go@v0.27.1 with KeepAlive field set to true.  This value is
+		// specified in
+		// https://pkg.go.dev/github.com/lucas-clemente/quic-go/internal/protocol#MaxKeepAliveInterval.
+		//
+		// TODO(ameshkov):  Consider making it configurable.
+		KeepAlivePeriod: 20 * time.Second,
+	}
 	conn, err = quic.DialAddrContext(context.Background(), addr, tlsConfig, quicConfig)
 	if err != nil {
 		return nil, fmt.Errorf("opening quic connection to %s: %w", p.Address(), err)

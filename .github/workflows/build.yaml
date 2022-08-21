@@ -1,9 +1,22 @@
 name: Build
 
+<<<<<<< HEAD
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 20 * *  1"
+=======
+'env':
+  'GO_VERSION': '1.18'
+
+'on':
+  'push':
+    'tags':
+      - 'v*'
+    'branches':
+      - '*'
+  'pull_request':
+>>>>>>> 2193a7198ae85d7a3ba633140d74eded38096e70
 
 jobs:
   go:
