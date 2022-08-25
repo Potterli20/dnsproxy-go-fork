@@ -12,8 +12,8 @@ github.com/AdguardTeam/golibs v0.10.9/go.mod h1:W+5rznZa1cSNSFt+gPS7f4Wytnr9fOrd
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/Potterli20/dnscrypt-go v0.0.0-20220824003520-1ca5b5d54f9e h1:vGPN8u1i4TevC3lp3hJK6LPwJr7xHsjRLttxg13zXVU=
 github.com/Potterli20/dnscrypt-go v0.0.0-20220824003520-1ca5b5d54f9e/go.mod h1:hoN/cqdm4RbHOoXrdJCF4XM98KXe+nKfPWCaeEDiWH8=
-github.com/Potterli20/go-flags-fork v0.0.0-20220819121438-0e8b2eadcadf h1:7aecUgoWPDzoSixKky27pyWJISFvfYG/1Epb+lpIOAk=
-github.com/Potterli20/go-flags-fork v0.0.0-20220819121438-0e8b2eadcadf/go.mod h1:FkiJjH/wLmWo3D+dTu7E4OKvNeX88JF8I2mxLYPdi5M=
+github.com/Potterli20/dnscrypt-go v0.0.0-20220825003753-4669e4245b99 h1:ANAfDK+4wmDubT2f+wHxtjhQ86PtT+l4RH4WxtxgTkw=
+github.com/Potterli20/dnscrypt-go v0.0.0-20220825003753-4669e4245b99/go.mod h1:26DilAwSdUdA1SubNMyxdz4yZJGntqSIZpNReRBw2BA=
 github.com/Potterli20/go-flags-fork v0.0.0-20220824121611-123c5edf4bf4 h1:kW+Md363TU+7vLUsybY5dDhYQ94VtdgH0cvWg9Ibzxo=
 github.com/Potterli20/go-flags-fork v0.0.0-20220824121611-123c5edf4bf4/go.mod h1:WNsbnSX/8aPALwCipH557zG9Ln8D6UKTEFb2faCYY7o=
 github.com/aead/chacha20 v0.0.0-20180709150244-8b13a72661da h1:KjTM2ks9d14ZYCvmHS9iAKVt9AyzRSqNU1qabPih5BY=
@@ -185,6 +185,8 @@ golang.org/x/crypto v0.0.0-20200221231518-2aa609cf4a9d/go.mod h1:LzIPMQfyMNhhGPh
 golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9/go.mod h1:LzIPMQfyMNhhGPhUkYOs5KpL4U8rLKemX1yGLhDgUto=
 golang.org/x/crypto v0.0.0-20220817201139-bc19a97f63c8 h1:GIAS/yBem/gq2MUqgNIzUHW7cJMmx3TGZOrnyYaNQ6c=
 golang.org/x/crypto v0.0.0-20220817201139-bc19a97f63c8/go.mod h1:IxCIyHEi3zRg3s0A5j5BB6A9Jmi73HwBIUl50j+osU4=
+golang.org/x/crypto v0.0.0-20220824171710-5757bc0c5503 h1:vJ2V3lFLg+bBhgroYuRfyN583UzVveQmIXjc8T/y3to=
+golang.org/x/crypto v0.0.0-20220824171710-5757bc0c5503/go.mod h1:IxCIyHEi3zRg3s0A5j5BB6A9Jmi73HwBIUl50j+osU4=
 golang.org/x/exp v0.0.0-20190121172915-509febef88a4/go.mod h1:CJ0aWSM057203Lf6IL+f9T1iT9GByDxfZKAQTCR3kQA=
 golang.org/x/lint v0.0.0-20180702182130-06c8688daad7/go.mod h1:UVdnD1Gm6xHRNCYTkRU2/jEulfH38KcIWyp/GAMgvoE=
 golang.org/x/lint v0.0.0-20181026193005-c67002cb31c3/go.mod h1:UVdnD1Gm6xHRNCYTkRU2/jEulfH38KcIWyp/GAMgvoE=
