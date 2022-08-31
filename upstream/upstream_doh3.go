@@ -182,7 +182,7 @@ func (p *dnsOverHTTP3) createTransport() (http.RoundTripper, error) {
 		DisableCompression: true,
 		TLSClientConfig:    tlsConfig,
 		QuicConfig:         quicConfig,
-		Dial: func(network, addr string, tlsCfg *tls.Config, cfg *quic.Config) (quic.EarlySession, error) {
+		Dial: func(network, addr string, tlsCfg *tls.Config, cfg *quic.Config) {
 			// we're using bootstrapped address instead of what's passed to the function
 			// it does not create an actual connection, but it helps us determine
 			// what IP is actually reachable (when there're v4/v6 addresses)
