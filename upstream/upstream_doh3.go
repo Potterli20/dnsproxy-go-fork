@@ -169,7 +169,13 @@ func (p *dnsOverHTTP3) createTransport() (http.RoundTripper, error) {
 	}
 
 	quicConfig := &quic.Config{
-		HandshakeIdleTimeout: handshakeTimeout,
+		// Set the keep alive interval to 20s as it would be in the
+		// quic-go@v0.27.1 with KeepAlive field set to true.  This value is
+		// specified in
+		// https://pkg.go.dev/github.com/lucas-clemente/quic-go/internal/protocol#MaxKeepAliveInterval.
+		//
+		// TODO(ameshkov):  Consider making it configurable.
+		KeepAlivePeriod: 10 * time.Second,
 	}
 
 	transport := &http3.RoundTripper{
