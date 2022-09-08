@@ -4,8 +4,8 @@ go 1.19
 
 require (
 	github.com/AdguardTeam/golibs v0.10.9
-	github.com/Potterli20/dnscrypt-go v0.0.0-20220907153548-ec20624e97eb
-	github.com/Potterli20/go-flags-fork v0.0.0-20220907153947-d93b1a323522
+	github.com/Potterli20/dnscrypt-go v0.0.0-20220908010431-fd3c3ab1373f
+	github.com/Potterli20/go-flags-fork v0.0.0-20220908004717-5ed9c0669c76
 	github.com/ameshkov/dnsstamps v1.0.3
 	github.com/beefsack/go-rate v0.0.0-20220214233405-116f4ca011a0
 	github.com/lucas-clemente/quic-go v0.29.0
