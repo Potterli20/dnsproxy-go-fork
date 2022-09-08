@@ -4,14 +4,14 @@ go 1.19
 
 require (
 	github.com/AdguardTeam/golibs v0.10.9
-	github.com/Potterli20/dnscrypt-go v0.0.0-20220907010847-cfcb687f61d4
-	github.com/Potterli20/go-flags-fork v0.0.0-20220907005246-f33e6c08aed4
+	github.com/Potterli20/dnscrypt-go v0.0.0-20220907153548-ec20624e97eb
+	github.com/Potterli20/go-flags-fork v0.0.0-20220907153947-d93b1a323522
 	github.com/ameshkov/dnsstamps v1.0.3
 	github.com/beefsack/go-rate v0.0.0-20220214233405-116f4ca011a0
 	github.com/lucas-clemente/quic-go v0.29.0
 	github.com/miekg/dns v1.1.50
 	github.com/stretchr/testify v1.8.0
-	golang.org/x/net v0.0.0-20220906165146-f3363e06e74c
+	golang.org/x/net v0.0.0-20220907135653-1e95f45603a7
 	gopkg.in/yaml.v3 v3.0.1
 	zgo.at/zcache v1.2.0
 )
