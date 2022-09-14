@@ -1,13 +1,13 @@
 github.com/AdguardTeam/golibs v0.10.9 h1:F9oP2da0dQ9RQDM1lGR7LxUTfUWu8hEFOs4icwAkKM0=
 github.com/AdguardTeam/golibs v0.10.9/go.mod h1:W+5rznZa1cSNSFt+gPS7f4Wytnr9fOrd5ZYqwadPw14=
-github.com/Potterli20/dnscrypt-go v0.0.0-20220910121949-d9348f073a7d h1:6j1bM6WRT5MICFzanR7JTsYONTgQhoWFJ7lz3s2yHsA=
-github.com/Potterli20/dnscrypt-go v0.0.0-20220910121949-d9348f073a7d/go.mod h1:R/1XlA9x0RI6ZutDW4UXtKVBsMsygudaZwVaXaskb5s=
 github.com/Potterli20/dnscrypt-go v0.0.0-20220913122538-9dd954c07703 h1:4eXTfueX7txV+Q7yyIaG9h4hB+gssVlEZIsYefosix8=
 github.com/Potterli20/dnscrypt-go v0.0.0-20220913122538-9dd954c07703/go.mod h1:D2lHxjkZmlvzgZ142ke/zkPWWQ2V+60j1sdHaZiUsD4=
-github.com/Potterli20/go-flags-fork v0.0.0-20220910121433-9f5a797afedb h1:DcJQ6B2QXujEw6bxthFFvuqdw4/ywx2FD2jPnkh3KrQ=
-github.com/Potterli20/go-flags-fork v0.0.0-20220910121433-9f5a797afedb/go.mod h1:E5AbEAloiFW4iHb0LS+x9W1d0Z0AEycCXKOPyP6LJ+w=
+github.com/Potterli20/dnscrypt-go v0.0.0-20220914010332-ea194313e17a h1:YDdXAd4USIhf6hnzKTxSNBUD0QP3h15UMVDPkhP+84k=
+github.com/Potterli20/dnscrypt-go v0.0.0-20220914010332-ea194313e17a/go.mod h1:F7awiObFdMeBOIIVlpIuQCfDLJ/9IJm1KcBDJeRFS2I=
 github.com/Potterli20/go-flags-fork v0.0.0-20220914004643-5b596b728dd9 h1:lQNnI68KYIRqP2/WxMm1XfPv9DtHa/NjPfvN4n9d5NA=
 github.com/Potterli20/go-flags-fork v0.0.0-20220914004643-5b596b728dd9/go.mod h1:8Pzt+/QMMnoPiHFfH180Uk+VMZ4OpTpl9KwpAuBjOOI=
+github.com/Potterli20/go-flags-fork v0.0.0-20220914121828-3e781f115b90 h1:GpVt/QOki3hWhI5hT+wMDu/m0saTD+5k6HsWG47R2mI=
+github.com/Potterli20/go-flags-fork v0.0.0-20220914121828-3e781f115b90/go.mod h1:8Pzt+/QMMnoPiHFfH180Uk+VMZ4OpTpl9KwpAuBjOOI=
 github.com/aead/chacha20 v0.0.0-20180709150244-8b13a72661da h1:KjTM2ks9d14ZYCvmHS9iAKVt9AyzRSqNU1qabPih5BY=
 github.com/aead/chacha20 v0.0.0-20180709150244-8b13a72661da/go.mod h1:eHEWzANqSiWQsof+nXEI9bUVUyV6F53Fp89EuCh2EAA=
 github.com/aead/poly1305 v0.0.0-20180717145839-3fee0db0b635 h1:52m0LGchQBBVqJRyYYufQuIbVqRawmubW3OFGqK1ekw=
@@ -117,8 +117,6 @@ golang.org/x/sys v0.0.0-20210423082822-04245dca01da/go.mod h1:h1NjWce9XRLGQEsW7w
 golang.org/x/sys v0.0.0-20210510120138-977fb7262007/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
 golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
 golang.org/x/sys v0.0.0-20220412211240-33da011f77ad/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
-golang.org/x/sys v0.0.0-20220909162455-aba9fc2a8ff2 h1:wM1k/lXfpc5HdkJJyW9GELpd8ERGdnh8sMGL6Gzq3Ho=
-golang.org/x/sys v0.0.0-20220909162455-aba9fc2a8ff2/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
 golang.org/x/sys v0.0.0-20220913175220-63ea55921009 h1:PuvuRMeLWqsf/ZdT1UUZz0syhioyv1mzuFZsXs4fvhw=
 golang.org/x/sys v0.0.0-20220913175220-63ea55921009/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
 golang.org/x/term v0.0.0-20201126162022-7de9c90e9dd1/go.mod h1:bj7SfCRtBDWHUb9snDiAeCFNEtKQo2Wmx5Cou7ajbmo=
