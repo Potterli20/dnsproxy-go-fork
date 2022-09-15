@@ -1,11 +1,9 @@
 github.com/AdguardTeam/golibs v0.10.9 h1:F9oP2da0dQ9RQDM1lGR7LxUTfUWu8hEFOs4icwAkKM0=
 github.com/AdguardTeam/golibs v0.10.9/go.mod h1:W+5rznZa1cSNSFt+gPS7f4Wytnr9fOrd5ZYqwadPw14=
-github.com/Potterli20/dnscrypt-go v0.0.0-20220913122538-9dd954c07703 h1:4eXTfueX7txV+Q7yyIaG9h4hB+gssVlEZIsYefosix8=
-github.com/Potterli20/dnscrypt-go v0.0.0-20220913122538-9dd954c07703/go.mod h1:D2lHxjkZmlvzgZ142ke/zkPWWQ2V+60j1sdHaZiUsD4=
 github.com/Potterli20/dnscrypt-go v0.0.0-20220914010332-ea194313e17a h1:YDdXAd4USIhf6hnzKTxSNBUD0QP3h15UMVDPkhP+84k=
 github.com/Potterli20/dnscrypt-go v0.0.0-20220914010332-ea194313e17a/go.mod h1:F7awiObFdMeBOIIVlpIuQCfDLJ/9IJm1KcBDJeRFS2I=
-github.com/Potterli20/go-flags-fork v0.0.0-20220914004643-5b596b728dd9 h1:lQNnI68KYIRqP2/WxMm1XfPv9DtHa/NjPfvN4n9d5NA=
-github.com/Potterli20/go-flags-fork v0.0.0-20220914004643-5b596b728dd9/go.mod h1:8Pzt+/QMMnoPiHFfH180Uk+VMZ4OpTpl9KwpAuBjOOI=
+github.com/Potterli20/dnscrypt-go v0.0.0-20220914122441-0323dcbefb59 h1:8pLrwISeFlWMxkezIFfzX9iscgep6gfr7kgDebkCo5I=
+github.com/Potterli20/dnscrypt-go v0.0.0-20220914122441-0323dcbefb59/go.mod h1:F7awiObFdMeBOIIVlpIuQCfDLJ/9IJm1KcBDJeRFS2I=
 github.com/Potterli20/go-flags-fork v0.0.0-20220914121828-3e781f115b90 h1:GpVt/QOki3hWhI5hT+wMDu/m0saTD+5k6HsWG47R2mI=
 github.com/Potterli20/go-flags-fork v0.0.0-20220914121828-3e781f115b90/go.mod h1:8Pzt+/QMMnoPiHFfH180Uk+VMZ4OpTpl9KwpAuBjOOI=
 github.com/aead/chacha20 v0.0.0-20180709150244-8b13a72661da h1:KjTM2ks9d14ZYCvmHS9iAKVt9AyzRSqNU1qabPih5BY=
@@ -84,6 +82,8 @@ golang.org/x/crypto v0.0.0-20220829220503-c86fa9a7ed90 h1:Y/gsMcFOcR+6S6f3YeMKl5
 golang.org/x/crypto v0.0.0-20220829220503-c86fa9a7ed90/go.mod h1:IxCIyHEi3zRg3s0A5j5BB6A9Jmi73HwBIUl50j+osU4=
 golang.org/x/exp v0.0.0-20220909182711-5c715a9e8561 h1:MDc5xs78ZrZr3HMQugiXOAkSZtfTpbJLDr/lwfgO53E=
 golang.org/x/exp v0.0.0-20220909182711-5c715a9e8561/go.mod h1:cyybsKvd6eL0RnXn6p/Grxp8F5bW7iYuBgsNCOHpMYE=
+golang.org/x/exp v0.0.0-20220914170420-dc92f8653013 h1:ZjglnWxEUdPyXl4o/j4T89SRCI+4X6NW6185PNLEOF4=
+golang.org/x/exp v0.0.0-20220914170420-dc92f8653013/go.mod h1:cyybsKvd6eL0RnXn6p/Grxp8F5bW7iYuBgsNCOHpMYE=
 golang.org/x/mod v0.3.0/go.mod h1:s0Qsj1ACt9ePp/hMypM3fl4fZqREWJwdYDEqhRiZZUA=
 golang.org/x/mod v0.4.2/go.mod h1:s0Qsj1ACt9ePp/hMypM3fl4fZqREWJwdYDEqhRiZZUA=
 golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 h1:6zppjxzCulZykYSLyVDYbneBfbaBIQPYMevg0bEwv2s=
