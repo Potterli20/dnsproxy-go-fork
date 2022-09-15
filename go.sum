@@ -1,7 +1,5 @@
 github.com/AdguardTeam/golibs v0.10.9 h1:F9oP2da0dQ9RQDM1lGR7LxUTfUWu8hEFOs4icwAkKM0=
 github.com/AdguardTeam/golibs v0.10.9/go.mod h1:W+5rznZa1cSNSFt+gPS7f4Wytnr9fOrd5ZYqwadPw14=
-github.com/Potterli20/dnscrypt-go v0.0.0-20220914010332-ea194313e17a h1:YDdXAd4USIhf6hnzKTxSNBUD0QP3h15UMVDPkhP+84k=
-github.com/Potterli20/dnscrypt-go v0.0.0-20220914010332-ea194313e17a/go.mod h1:F7awiObFdMeBOIIVlpIuQCfDLJ/9IJm1KcBDJeRFS2I=
 github.com/Potterli20/dnscrypt-go v0.0.0-20220914122441-0323dcbefb59 h1:8pLrwISeFlWMxkezIFfzX9iscgep6gfr7kgDebkCo5I=
 github.com/Potterli20/dnscrypt-go v0.0.0-20220914122441-0323dcbefb59/go.mod h1:F7awiObFdMeBOIIVlpIuQCfDLJ/9IJm1KcBDJeRFS2I=
 github.com/Potterli20/go-flags-fork v0.0.0-20220914121828-3e781f115b90 h1:GpVt/QOki3hWhI5hT+wMDu/m0saTD+5k6HsWG47R2mI=
@@ -80,10 +78,10 @@ golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550/go.mod h1:yigFU9vqHzYiE8U
 golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9/go.mod h1:LzIPMQfyMNhhGPhUkYOs5KpL4U8rLKemX1yGLhDgUto=
 golang.org/x/crypto v0.0.0-20220829220503-c86fa9a7ed90 h1:Y/gsMcFOcR+6S6f3YeMKl5g+dZMEWqcz5Czj/GWYbkM=
 golang.org/x/crypto v0.0.0-20220829220503-c86fa9a7ed90/go.mod h1:IxCIyHEi3zRg3s0A5j5BB6A9Jmi73HwBIUl50j+osU4=
-golang.org/x/exp v0.0.0-20220909182711-5c715a9e8561 h1:MDc5xs78ZrZr3HMQugiXOAkSZtfTpbJLDr/lwfgO53E=
-golang.org/x/exp v0.0.0-20220909182711-5c715a9e8561/go.mod h1:cyybsKvd6eL0RnXn6p/Grxp8F5bW7iYuBgsNCOHpMYE=
 golang.org/x/exp v0.0.0-20220914170420-dc92f8653013 h1:ZjglnWxEUdPyXl4o/j4T89SRCI+4X6NW6185PNLEOF4=
 golang.org/x/exp v0.0.0-20220914170420-dc92f8653013/go.mod h1:cyybsKvd6eL0RnXn6p/Grxp8F5bW7iYuBgsNCOHpMYE=
+golang.org/x/exp v0.0.0-20220915105810-2d61f44442a3 h1:RH7svKeovtQ5gnefD4fLF5HrsoIpXiZk7VX6XNzurBQ=
+golang.org/x/exp v0.0.0-20220915105810-2d61f44442a3/go.mod h1:cyybsKvd6eL0RnXn6p/Grxp8F5bW7iYuBgsNCOHpMYE=
 golang.org/x/mod v0.3.0/go.mod h1:s0Qsj1ACt9ePp/hMypM3fl4fZqREWJwdYDEqhRiZZUA=
 golang.org/x/mod v0.4.2/go.mod h1:s0Qsj1ACt9ePp/hMypM3fl4fZqREWJwdYDEqhRiZZUA=
 golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 h1:6zppjxzCulZykYSLyVDYbneBfbaBIQPYMevg0bEwv2s=
