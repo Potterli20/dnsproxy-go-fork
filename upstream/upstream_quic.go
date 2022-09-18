@@ -35,13 +35,8 @@ const (
 	QUICKeepAlivePeriod = time.Second * 20
 )
 
-<<<<<<< HEAD
-// dnsOverQUIC is a DNS-over-QUIC implementation according to the spec:
-// https://www.rfc-editor.org/rfc/rfc9250.html
-=======
 // dnsOverQUIC is a struct that implements the Upstream interface for the
 // DNS-over-QUIC protocol (spec: https://www.rfc-editor.org/rfc/rfc9250.html).
->>>>>>> 823fa92f99c4bf1093bc922d4f47ff2f94314781
 type dnsOverQUIC struct {
 	// boot is a bootstrap DNS abstraction that is used to resolve the upstream
 	// server's address and open a network connection to it.

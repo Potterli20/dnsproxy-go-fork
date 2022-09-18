@@ -8,12 +8,8 @@ import (
 	"github.com/miekg/dns"
 )
 
-<<<<<<< HEAD
-// plain DNS
-=======
 // plainDNS is a struct that implements the Upstream interface for the regular
 // DNS protocol.
->>>>>>> 823fa92f99c4bf1093bc922d4f47ff2f94314781
 type plainDNS struct {
 	address   string
 	timeout   time.Duration

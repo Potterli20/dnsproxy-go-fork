@@ -116,20 +116,12 @@ const (
 
 // AddressToUpstream converts addr to an Upstream instance:
 //
-<<<<<<< HEAD
-//	8.8.8.8:53 or udp://dns.adguard.com for plain DNS;
-//	tcp://8.8.8.8:53 for plain DNS-over-TCP;
-//	tls://1.1.1.1 for DNS-over-TLS;
-//	https://dns.adguard.com/dns-query for DNS-over-HTTPS;
-//	sdns://... for DNS stamp, see https://dnscrypt.info/stamps-specifications.
-=======
 //   - 8.8.8.8:53 or udp://dns.adguard.com for plain DNS;
 //   - tcp://8.8.8.8:53 for plain DNS-over-TCP;
 //   - tls://1.1.1.1 for DNS-over-TLS;
 //   - https://dns.adguard.com/dns-query for DNS-over-HTTPS;
 //   - h3://dns.google for DNS-over-HTTPS that only works with HTTP/3;
 //   - sdns://... for DNS stamp, see https://dnscrypt.info/stamps-specifications.
->>>>>>> 823fa92f99c4bf1093bc922d4f47ff2f94314781
 //
 // opts are applied to the u.  nil is a valid value for opts.
 func AddressToUpstream(addr string, opts *Options) (u Upstream, err error) {

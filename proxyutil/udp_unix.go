@@ -15,13 +15,8 @@ import (
 // connection to receive an appropriate OOB data.  For both versions the flags
 // are:
 //
-<<<<<<< HEAD
-//	FlagDst
-//	FlagInterface
-=======
 //   - FlagDst
 //   - FlagInterface
->>>>>>> 823fa92f99c4bf1093bc922d4f47ff2f94314781
 const (
 	ipv4Flags ipv4.ControlFlags = ipv4.FlagDst | ipv4.FlagInterface
 	ipv6Flags ipv6.ControlFlags = ipv6.FlagDst | ipv6.FlagInterface

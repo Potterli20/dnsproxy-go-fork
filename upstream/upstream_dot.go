@@ -11,12 +11,8 @@ import (
 	"github.com/miekg/dns"
 )
 
-<<<<<<< HEAD
-// DNS-over-TLS
-=======
 // dnsOverTLS is a struct that implements the Upstream interface for the
 // DNS-over-TLS protocol.
->>>>>>> 823fa92f99c4bf1093bc922d4f47ff2f94314781
 type dnsOverTLS struct {
 	boot *bootstrapper
 	pool *TLSPool
