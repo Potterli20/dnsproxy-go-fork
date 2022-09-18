@@ -11,7 +11,12 @@ import (
 	"github.com/miekg/dns"
 )
 
+<<<<<<< HEAD
 // DNS-over-TLS
+=======
+// dnsOverTLS is a struct that implements the Upstream interface for the
+// DNS-over-TLS protocol.
+>>>>>>> 823fa92f99c4bf1093bc922d4f47ff2f94314781
 type dnsOverTLS struct {
 	boot *bootstrapper
 	pool *TLSPool
@@ -35,8 +40,10 @@ func newDoT(uu *url.URL, opts *Options) (u Upstream, err error) {
 	return &dnsOverTLS{boot: b}, nil
 }
 
+// Address implements the Upstream interface for *dnsOverTLS.
 func (p *dnsOverTLS) Address() string { return p.boot.URL.String() }
 
+// Exchange implements the Upstream interface for *dnsOverTLS.
 func (p *dnsOverTLS) Exchange(m *dns.Msg) (reply *dns.Msg, err error) {
 	var pool *TLSPool
 	p.RLock()
