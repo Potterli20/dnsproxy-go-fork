@@ -9,9 +9,9 @@ import (
 	"math"
 	"net"
 	"time"
-	
-	"github.com/Potterli20/dnsproxy-go-fork/proxyutil"
+
 	"github.com/AdguardTeam/golibs/log"
+	"github.com/Potterli20/dnsproxy-go-fork/proxyutil"
 	"github.com/bluele/gcache"
 	"github.com/lucas-clemente/quic-go"
 	"github.com/miekg/dns"
