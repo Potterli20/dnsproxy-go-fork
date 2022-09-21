@@ -9,7 +9,8 @@ import (
 	"math"
 	"net"
 	"time"
-
+	
+	"github.com/Potterli20/dnsproxy-go-fork/proxyutil"
 	"github.com/AdguardTeam/golibs/log"
 	"github.com/bluele/gcache"
 	"github.com/lucas-clemente/quic-go"
