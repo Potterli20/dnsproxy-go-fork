@@ -6,8 +6,6 @@ import (
 	"sync"
 	"time"
 
-	"github.com/AdguardTeam/golibs/log"
-
 	"github.com/AdguardTeam/golibs/cache"
 	"github.com/Potterli20/dnsproxy-go-fork/proxyutil"
 	"github.com/Potterli20/dnsproxy-go-fork/upstream"
