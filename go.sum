@@ -1,7 +1,5 @@
 github.com/AdguardTeam/golibs v0.10.9 h1:F9oP2da0dQ9RQDM1lGR7LxUTfUWu8hEFOs4icwAkKM0=
 github.com/AdguardTeam/golibs v0.10.9/go.mod h1:W+5rznZa1cSNSFt+gPS7f4Wytnr9fOrd5ZYqwadPw14=
-github.com/Potterli20/dnscrypt-go v0.0.0-20220922010459-bdc96da28c97 h1:by135LeerI9DJ+ThotcZZ3nzJDkx+zWkrF/chtEeI8A=
-github.com/Potterli20/dnscrypt-go v0.0.0-20220922010459-bdc96da28c97/go.mod h1:ibNGa8KK7Y954iC2UFKuQkCZ8xaL8cpzSG43DDI1vHw=
 github.com/Potterli20/dnscrypt-go v0.0.0-20220922122446-00a957937f82 h1:rl2EO11C7u1UCFFyhaW1gABSKZS0wCie8SJHCGg4PMU=
 github.com/Potterli20/dnscrypt-go v0.0.0-20220922122446-00a957937f82/go.mod h1:ibNGa8KK7Y954iC2UFKuQkCZ8xaL8cpzSG43DDI1vHw=
 github.com/Potterli20/go-flags-fork v0.0.0-20220920005205-16e90c08b906 h1:8IvFhLAxhAxrWu1CZGTV70dGlvHuSxcW8tGWT8hTV2U=
@@ -46,6 +44,8 @@ github.com/kr/text v0.2.0 h1:5Nx0Ya0ZqY2ygV366QzturHI13Jq95ApcVaJBhpS+AY=
 github.com/kr/text v0.2.0/go.mod h1:eLer722TekiGuMkidMxC/pM04lWEeraHUUmBw8l2grE=
 github.com/lucas-clemente/quic-go v0.29.0 h1:Vw0mGTfmWqGzh4jx/kMymsIkFK6rErFVmg+t9RLrnZE=
 github.com/lucas-clemente/quic-go v0.29.0/go.mod h1:CTcNfLYJS2UuRNB+zcNlgvkjBhxX6Hm3WUxxAQx2mgE=
+github.com/lucas-clemente/quic-go v0.29.1 h1:Z+WMJ++qMLhvpFkRZA+jl3BTxUjm415YBmWanXB8zP0=
+github.com/lucas-clemente/quic-go v0.29.1/go.mod h1:CTcNfLYJS2UuRNB+zcNlgvkjBhxX6Hm3WUxxAQx2mgE=
 github.com/marten-seemann/qpack v0.2.1 h1:jvTsT/HpCn2UZJdP+UUB53FfUUgeOyG5K1ns0OJOGVs=
 github.com/marten-seemann/qpack v0.2.1/go.mod h1:F7Gl5L1jIgN1D11ucXefiuJS9UMVP2opoCp2jDKb7wc=
 github.com/marten-seemann/qtls-go1-18 v0.1.2 h1:JH6jmzbduz0ITVQ7ShevK10Av5+jBEKAHMntXmIV7kM=
