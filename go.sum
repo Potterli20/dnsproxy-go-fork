@@ -1,9 +1,9 @@
 github.com/AdguardTeam/golibs v0.10.9 h1:F9oP2da0dQ9RQDM1lGR7LxUTfUWu8hEFOs4icwAkKM0=
 github.com/AdguardTeam/golibs v0.10.9/go.mod h1:W+5rznZa1cSNSFt+gPS7f4Wytnr9fOrd5ZYqwadPw14=
-github.com/Potterli20/dnscrypt-go v0.0.0-20220921122528-c63d5986d673 h1:ameFO0ct+Eju7G7vsm4g7Gs+PZfWLN/X4CnAozoaGfE=
-github.com/Potterli20/dnscrypt-go v0.0.0-20220921122528-c63d5986d673/go.mod h1:4kIwE1MoT6KFoN3/QvdXnRSEB2DgLzBItlNXmlr61AY=
 github.com/Potterli20/dnscrypt-go v0.0.0-20220922010459-bdc96da28c97 h1:by135LeerI9DJ+ThotcZZ3nzJDkx+zWkrF/chtEeI8A=
 github.com/Potterli20/dnscrypt-go v0.0.0-20220922010459-bdc96da28c97/go.mod h1:ibNGa8KK7Y954iC2UFKuQkCZ8xaL8cpzSG43DDI1vHw=
+github.com/Potterli20/dnscrypt-go v0.0.0-20220922122446-00a957937f82 h1:rl2EO11C7u1UCFFyhaW1gABSKZS0wCie8SJHCGg4PMU=
+github.com/Potterli20/dnscrypt-go v0.0.0-20220922122446-00a957937f82/go.mod h1:ibNGa8KK7Y954iC2UFKuQkCZ8xaL8cpzSG43DDI1vHw=
 github.com/Potterli20/go-flags-fork v0.0.0-20220920005205-16e90c08b906 h1:8IvFhLAxhAxrWu1CZGTV70dGlvHuSxcW8tGWT8hTV2U=
 github.com/Potterli20/go-flags-fork v0.0.0-20220920005205-16e90c08b906/go.mod h1:5/TYJP0mrU7gr8Oo1ipelCDqaM4Fe5XAbiKt6jiq7vE=
 github.com/aead/chacha20 v0.0.0-20180709150244-8b13a72661da h1:KjTM2ks9d14ZYCvmHS9iAKVt9AyzRSqNU1qabPih5BY=
