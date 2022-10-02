@@ -13,8 +13,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/AdguardTeam/golibs/netutil"
-	"github.com/AdguardTeam/golibs/testutil"
+	"github.com/Potterli20/golibs-fork/netutil"
+	"github.com/Potterli20/golibs-fork/testutil"
 	"github.com/lucas-clemente/quic-go"
 	"github.com/lucas-clemente/quic-go/http3"
 	"github.com/miekg/dns"

@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	glcache "github.com/AdguardTeam/golibs/cache"
-	"github.com/AdguardTeam/golibs/log"
+	glcache "github.com/Potterli20/golibs-fork/cache"
+	"github.com/Potterli20/golibs-fork/log"
 	"github.com/miekg/dns"
 )
 

@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/AdguardTeam/golibs/netutil"
-	"github.com/AdguardTeam/golibs/testutil"
+	"github.com/Potterli20/golibs-fork/netutil"
+	"github.com/Potterli20/golibs-fork/testutil"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

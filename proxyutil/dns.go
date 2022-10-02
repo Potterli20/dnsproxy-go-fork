@@ -6,7 +6,7 @@ import (
 	"io"
 	"net"
 
-	"github.com/AdguardTeam/golibs/errors"
+	"github.com/Potterli20/golibs-fork/errors"
 	"github.com/miekg/dns"
 )
 

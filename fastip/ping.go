@@ -4,8 +4,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/AdguardTeam/golibs/log"
-	"github.com/AdguardTeam/golibs/netutil"
+	"github.com/Potterli20/golibs-fork/log"
+	"github.com/Potterli20/golibs-fork/netutil"
 )
 
 // pingTCPTimeout is a TCP connection timeout.  It's higher than pingWaitTimeout

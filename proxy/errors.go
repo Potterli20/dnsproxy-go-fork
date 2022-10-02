@@ -6,7 +6,7 @@ package proxy
 import (
 	"syscall"
 
-	"github.com/AdguardTeam/golibs/errors"
+	"github.com/Potterli20/golibs-fork/errors"
 )
 
 // isEPIPE checks if the underlying error is EPIPE.  syscall.EPIPE exists on all

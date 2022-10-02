@@ -3,8 +3,8 @@ package proxy
 import (
 	"net"
 
-	"github.com/AdguardTeam/golibs/log"
-	"github.com/AdguardTeam/golibs/netutil"
+	"github.com/Potterli20/golibs-fork/log"
+	"github.com/Potterli20/golibs-fork/netutil"
 	"github.com/miekg/dns"
 )
 

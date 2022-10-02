@@ -4,7 +4,7 @@ import (
 	"encoding/hex"
 	"sync"
 
-	"github.com/AdguardTeam/golibs/log"
+	"github.com/Potterli20/golibs-fork/log"
 )
 
 // cachingResolver is the DNS resolver that is also able to cache responses.

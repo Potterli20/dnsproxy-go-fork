@@ -8,9 +8,9 @@ import (
 	"testing"
 	"time"
 
-	glcache "github.com/AdguardTeam/golibs/cache"
-	"github.com/AdguardTeam/golibs/netutil"
-	"github.com/AdguardTeam/golibs/testutil"
+	glcache "github.com/Potterli20/golibs-fork/cache"
+	"github.com/Potterli20/golibs-fork/netutil"
+	"github.com/Potterli20/golibs-fork/testutil"
 	"github.com/Potterli20/dnsproxy-go-fork/upstream"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

@@ -5,7 +5,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/AdguardTeam/golibs/log"
+	"github.com/Potterli20/golibs-fork/log"
 	"github.com/lucas-clemente/quic-go"
 	"github.com/miekg/dns"
 )

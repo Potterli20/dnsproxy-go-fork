@@ -5,8 +5,8 @@ import (
 	"sort"
 	"time"
 
-	"github.com/AdguardTeam/golibs/log"
-	"github.com/AdguardTeam/golibs/netutil"
+	"github.com/Potterli20/golibs-fork/log"
+	"github.com/Potterli20/golibs-fork/netutil"
 	rate "github.com/beefsack/go-rate"
 	gocache "zgo.at/zcache"
 )
