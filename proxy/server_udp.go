@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"net"
 
+	"github.com/Potterli20/dnsproxy-go-fork/proxyutil"
 	"github.com/Potterli20/golibs-fork/errors"
 	"github.com/Potterli20/golibs-fork/log"
-	"github.com/Potterli20/dnsproxy-go-fork/proxyutil"
 	"github.com/miekg/dns"
 )
 

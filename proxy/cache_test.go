@@ -8,10 +8,10 @@ import (
 	"testing"
 	"time"
 
+	"github.com/Potterli20/dnsproxy-go-fork/upstream"
 	glcache "github.com/Potterli20/golibs-fork/cache"
 	"github.com/Potterli20/golibs-fork/netutil"
 	"github.com/Potterli20/golibs-fork/testutil"
-	"github.com/Potterli20/dnsproxy-go-fork/upstream"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 

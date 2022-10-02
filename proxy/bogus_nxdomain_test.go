@@ -4,9 +4,9 @@ import (
 	"net"
 	"testing"
 
+	"github.com/Potterli20/dnsproxy-go-fork/upstream"
 	"github.com/Potterli20/golibs-fork/netutil"
 	"github.com/Potterli20/golibs-fork/testutil"
-	"github.com/Potterli20/dnsproxy-go-fork/upstream"
 	"github.com/miekg/dns"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
