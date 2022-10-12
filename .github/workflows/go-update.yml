@@ -18,9 +18,10 @@ jobs:
         run: |
           go mod tidy -compat=1.19
           gofmt -w -r 'interface{} -> any' .
+          go get -u
           go mod download
 
-      - name: Git push 
+      - name: Git push
         run: |
           git init
           git config --local user.name "github-actions[bot]"
@@ -31,7 +32,7 @@ jobs:
           git add --all
           git commit -m "$(date +%Y%m%d%H%M)"
           git push -f -u origin master
-          
+
     # 删除无用 workflow runs;
       - name: Delete workflow runs
         uses: GitRML/delete-workflow-runs@main
