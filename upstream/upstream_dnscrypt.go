@@ -7,9 +7,9 @@ import (
 	"sync"
 	"time"
 
+	"github.com/Potterli20/dnscrypt-go"
 	"github.com/Potterli20/golibs-fork/errors"
 	"github.com/Potterli20/golibs-fork/log"
-	"github.com/Potterli20/dnscrypt-go"
 	"github.com/miekg/dns"
 )
 

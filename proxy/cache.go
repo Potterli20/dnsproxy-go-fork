@@ -9,9 +9,9 @@ import (
 	"sync"
 	"time"
 
+	"github.com/Potterli20/dnsproxy-go-fork/upstream"
 	glcache "github.com/Potterli20/golibs-fork/cache"
 	"github.com/Potterli20/golibs-fork/log"
-	"github.com/Potterli20/dnsproxy-go-fork/upstream"
 	"github.com/miekg/dns"
 )
 

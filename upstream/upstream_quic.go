@@ -8,9 +8,9 @@ import (
 	"sync"
 	"time"
 
+	"github.com/Potterli20/dnsproxy-go-fork/proxyutil"
 	"github.com/Potterli20/golibs-fork/errors"
 	"github.com/Potterli20/golibs-fork/log"
-	"github.com/Potterli20/dnsproxy-go-fork/proxyutil"
 	"github.com/lucas-clemente/quic-go"
 	"github.com/miekg/dns"
 )

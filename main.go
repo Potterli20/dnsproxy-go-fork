@@ -10,12 +10,12 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/Potterli20/golibs-fork/log"
-	"github.com/Potterli20/golibs-fork/netutil"
 	"github.com/Potterli20/dnscrypt-go"
 	"github.com/Potterli20/dnsproxy-go-fork/proxy"
 	"github.com/Potterli20/dnsproxy-go-fork/upstream"
 	goFlags "github.com/Potterli20/go-flags-fork"
+	"github.com/Potterli20/golibs-fork/log"
+	"github.com/Potterli20/golibs-fork/netutil"
 	"gopkg.in/yaml.v3"
 )
 

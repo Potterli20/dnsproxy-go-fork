@@ -7,8 +7,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/Potterli20/golibs-fork/log"
 	"github.com/Potterli20/dnsproxy-go-fork/proxyutil"
+	"github.com/Potterli20/golibs-fork/log"
 	"github.com/miekg/dns"
 )
 
