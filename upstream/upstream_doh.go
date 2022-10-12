@@ -12,8 +12,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/AdguardTeam/golibs/errors"
-	"github.com/AdguardTeam/golibs/log"
+	"github.com/Potterli20/golibs-fork/errors"
+	"github.com/Potterli20/golibs-fork/log"
 	"github.com/lucas-clemente/quic-go"
 	"github.com/lucas-clemente/quic-go/http3"
 	"github.com/miekg/dns"
