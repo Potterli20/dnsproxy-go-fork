@@ -11,8 +11,14 @@ import (
 	"testing"
 	"time"
 
+<<<<<<< HEAD
 	"github.com/Potterli20/dnsproxy-go-fork/proxyutil"
 	"github.com/Potterli20/golibs-fork/log"
+=======
+	"github.com/AdguardTeam/dnsproxy/proxyutil"
+	"github.com/AdguardTeam/golibs/log"
+	"github.com/AdguardTeam/golibs/testutil"
+>>>>>>> 8dfa81399b151a25200d46fa1787308107240867
 	"github.com/lucas-clemente/quic-go"
 	"github.com/miekg/dns"
 	"github.com/stretchr/testify/require"
@@ -33,6 +39,7 @@ func TestUpstreamDoQ(t *testing.T) {
 	}
 	u, err := AddressToUpstream(address, opts)
 	require.NoError(t, err)
+	testutil.CleanupAndRequireSuccess(t, u.Close)
 
 	uq := u.(*dnsOverQUIC)
 	var conn quic.Connection
@@ -62,6 +69,7 @@ func TestUpstreamDoQ(t *testing.T) {
 	// check it for race conditions.
 	u, err = AddressToUpstream(address, opts)
 	require.NoError(t, err)
+	testutil.CleanupAndRequireSuccess(t, u.Close)
 
 	checkRaceCondition(u)
 }
@@ -74,6 +82,7 @@ func TestUpstreamDoQ_serverRestart(t *testing.T) {
 	address := fmt.Sprintf("quic://%s", srv.addr)
 	u, err := AddressToUpstream(address, &Options{InsecureSkipVerify: true, Timeout: time.Second})
 	require.NoError(t, err)
+	testutil.CleanupAndRequireSuccess(t, u.Close)
 
 	// Test that the upstream works properly.
 	checkUpstream(t, u, address)
