@@ -4,12 +4,8 @@ import (
 	"net"
 	"testing"
 
-<<<<<<< HEAD
 	"github.com/Potterli20/dnscrypt-go"
-=======
-	"github.com/AdguardTeam/golibs/testutil"
-	"github.com/ameshkov/dnscrypt/v2"
->>>>>>> 8dfa81399b151a25200d46fa1787308107240867
+	"github.com/Potterli20/golibs-go-fork/testutil"
 	"github.com/miekg/dns"
 	"github.com/stretchr/testify/require"
 )

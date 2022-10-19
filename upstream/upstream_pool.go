@@ -9,12 +9,8 @@ import (
 	"sync"
 	"time"
 
-<<<<<<< HEAD
 	"github.com/Potterli20/golibs-fork/log"
-=======
-	"github.com/AdguardTeam/golibs/errors"
-	"github.com/AdguardTeam/golibs/log"
->>>>>>> 8dfa81399b151a25200d46fa1787308107240867
+	"github.com/Potterli20/golibs-fork/errors"
 )
 
 // dialTimeout is the global timeout for establishing a TLS connection.
