@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/Potterli20/dnscrypt-go"
-	"github.com/Potterli20/golibs-go-fork/testutil"
+	"github.com/Potterli20/golibs-fork/testutil"
 	"github.com/miekg/dns"
 	"github.com/stretchr/testify/require"
 )
