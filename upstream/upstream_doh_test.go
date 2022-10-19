@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/AdguardTeam/golibs/testutil"
+	"github.com/Potterli20/golibs-fork/testutil"
 	"github.com/lucas-clemente/quic-go"
 	"github.com/lucas-clemente/quic-go/http3"
 	"github.com/miekg/dns"
