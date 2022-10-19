@@ -5,19 +5,11 @@ import (
 	"io"
 	"strings"
 
-<<<<<<< HEAD
 	"github.com/Potterli20/golibs-fork/log"
 	"github.com/Potterli20/golibs-fork/netutil"
 	"github.com/Potterli20/golibs-fork/stringutil"
-
+	"github.com/Potterli20/golibs-fork/errors"
 	"github.com/Potterli20/dnsproxy-go-fork/upstream"
-=======
-	"github.com/AdguardTeam/dnsproxy/upstream"
-	"github.com/AdguardTeam/golibs/errors"
-	"github.com/AdguardTeam/golibs/log"
-	"github.com/AdguardTeam/golibs/netutil"
-	"github.com/AdguardTeam/golibs/stringutil"
->>>>>>> 8dfa81399b151a25200d46fa1787308107240867
 )
 
 // UpstreamConfig is a wrapper for list of default upstreams and map of reserved domains and corresponding upstreams
