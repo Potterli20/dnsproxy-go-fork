@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/Potterli20/dnscrypt-go v0.0.0-20221019122806-dad021d70466
 	github.com/Potterli20/go-flags-fork v0.0.0-20221018122041-7d29a05fd9b8
-	github.com/Potterli20/golibs-fork v0.0.0-20221007145150-28a8d4312b5f
+	github.com/Potterli20/golibs-fork v0.0.0-20221019165946-50bb30059136
 	github.com/ameshkov/dnsstamps v1.0.3
 	github.com/beefsack/go-rate v0.0.0-20220214233405-116f4ca011a0
 	github.com/bluele/gcache v0.0.2
@@ -31,9 +31,9 @@ require (
 	github.com/nxadm/tail v1.4.8 // indirect
 	github.com/onsi/ginkgo v1.16.5 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	golang.org/x/crypto v0.0.0-20221012134737-56aed061732a // indirect
-	golang.org/x/exp v0.0.0-20221018221608-02f3b879a704 // indirect
-	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
+	golang.org/x/crypto v0.1.0 // indirect
+	golang.org/x/exp v0.0.0-20221019170559-20944726eadf // indirect
+	golang.org/x/mod v0.6.0 // indirect
 	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/text v0.4.0 // indirect
 	golang.org/x/tools v0.1.12 // indirect
