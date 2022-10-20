@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/AdguardTeam/golibs/testutil"
+	"github.com/Potterli20/golibs-fork/testutil"
 	"github.com/miekg/dns"
 	"github.com/stretchr/testify/require"
 )

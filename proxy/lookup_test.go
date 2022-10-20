@@ -4,15 +4,9 @@ import (
 	"net"
 	"testing"
 
-<<<<<<< HEAD
-	"github.com/stretchr/testify/assert"
-
 	"github.com/Potterli20/dnsproxy-go-fork/upstream"
-=======
-	"github.com/AdguardTeam/dnsproxy/upstream"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
->>>>>>> 1d45bb99012168257ae56f46577e1a8155e8fac3
 )
 
 func TestLookupIPAddr(t *testing.T) {

@@ -6,12 +6,8 @@ import (
 	"net"
 	"testing"
 
-<<<<<<< HEAD
 	"github.com/Potterli20/golibs-fork/testutil"
-=======
-	"github.com/AdguardTeam/golibs/errors"
-	"github.com/AdguardTeam/golibs/testutil"
->>>>>>> 1d45bb99012168257ae56f46577e1a8155e8fac3
+	"github.com/Potterli20/golibs-fork/errors"
 	"github.com/miekg/dns"
 	"github.com/stretchr/testify/require"
 )
