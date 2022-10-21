@@ -6,8 +6,8 @@ import (
 	"net"
 	"testing"
 
-	"github.com/Potterli20/golibs-fork/testutil"
 	"github.com/Potterli20/golibs-fork/errors"
+	"github.com/Potterli20/golibs-fork/testutil"
 	"github.com/miekg/dns"
 	"github.com/stretchr/testify/require"
 )
