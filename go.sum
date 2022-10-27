@@ -1,11 +1,9 @@
-github.com/Potterli20/dnscrypt-go v0.0.0-20221025011823-b80be459f609 h1:KS0w1oH4slLy2qq62VGhfwv76pPnm5gCZ+86/afdqYU=
-github.com/Potterli20/dnscrypt-go v0.0.0-20221025011823-b80be459f609/go.mod h1:MaTXGLeP9fDkXB4FGKU6lwwydlj/WdqpJGKL0nhmUKQ=
 github.com/Potterli20/dnscrypt-go v0.0.0-20221026122535-a24accbdeb45 h1:2IzlzadUKr6VeghvR7fex40QT9XG+aPiV7M3FTTYUiw=
 github.com/Potterli20/dnscrypt-go v0.0.0-20221026122535-a24accbdeb45/go.mod h1:93K/slgxGTW6fBQI41JrMj7TSeP8nreq/ljV8E5cQOY=
+github.com/Potterli20/dnscrypt-go v0.0.0-20221027010334-097eaef71c21 h1:GlSPdX80ZFVB4GhtELsj0sPyYuFX2GYurGBGWUqKJEk=
+github.com/Potterli20/dnscrypt-go v0.0.0-20221027010334-097eaef71c21/go.mod h1:c0lmHXuhRVsF8eOKxOmPF1VG5G9vWlHBg3mQQg41+X0=
 github.com/Potterli20/go-flags-fork v0.0.0-20221018122041-7d29a05fd9b8 h1:d9+b+hajwuRBVcEL+hILRa0k5M86GGafn2GN6bhe4tQ=
 github.com/Potterli20/go-flags-fork v0.0.0-20221018122041-7d29a05fd9b8/go.mod h1:TGYPtCnbIbnr2ncWIIKnzLwodngrtKi+ujA9k3y/67w=
-github.com/Potterli20/golibs-fork v0.0.0-20221026071906-41c639be9179 h1:Hox/xQK5Y3nyeYBdJ1b9pY/N1SXcqzyDXjanr5/NLUA=
-github.com/Potterli20/golibs-fork v0.0.0-20221026071906-41c639be9179/go.mod h1:8iE6o6LDUiQxIkLCjYhS1n/eCau1bPncX6vDPSLTi3c=
 github.com/Potterli20/golibs-fork v0.0.0-20221027004021-eacfbd6c1edf h1:fYhf6X77jqN1UrtN6IRB9YbNQSyrU7EZtHD9SS9qbYo=
 github.com/Potterli20/golibs-fork v0.0.0-20221027004021-eacfbd6c1edf/go.mod h1:daf5eT0w3TUaHJBJoJWqYHcDQUvcKt6Ibv3ZZ+jiwtc=
 github.com/aead/chacha20 v0.0.0-20180709150244-8b13a72661da h1:KjTM2ks9d14ZYCvmHS9iAKVt9AyzRSqNU1qabPih5BY=
@@ -66,8 +64,6 @@ golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACk
 golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550/go.mod h1:yigFU9vqHzYiE8UmvKecakEJjdnWj3jj499lnFckfCI=
 golang.org/x/crypto v0.1.0 h1:MDRAIl0xIo9Io2xV565hzXHw3zVseKrJKodhohM5CjU=
 golang.org/x/crypto v0.1.0/go.mod h1:RecgLatLF4+eUMCP1PoPZQb+cVrJcOPbHkTkbkB9sbw=
-golang.org/x/exp v0.0.0-20221026004748-78e5e7837ae6 h1:mC6uOkPi9SUk8A59jZvw7//rlyc+MlELtQUCyOUSKZQ=
-golang.org/x/exp v0.0.0-20221026004748-78e5e7837ae6/go.mod h1:cyybsKvd6eL0RnXn6p/Grxp8F5bW7iYuBgsNCOHpMYE=
 golang.org/x/exp v0.0.0-20221026153819-32f3d567a233 h1:9bNbSKT4RPLEzne0Xh1v3NaNecsa1DKjkOuTbY6V9rI=
 golang.org/x/exp v0.0.0-20221026153819-32f3d567a233/go.mod h1:CxIveKay+FTh1D0yPZemJVgC/95VzuuOLq5Qi4xnoYc=
 golang.org/x/mod v0.4.2/go.mod h1:s0Qsj1ACt9ePp/hMypM3fl4fZqREWJwdYDEqhRiZZUA=
