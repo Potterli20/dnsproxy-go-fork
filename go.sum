@@ -1,7 +1,7 @@
-github.com/Potterli20/dnscrypt-go v0.0.0-20221110122557-b4d7aa0cae70 h1:ymilwkKgkd/ve0XqiSsYhKwGtm2iFqWABG5dputLE7U=
-github.com/Potterli20/dnscrypt-go v0.0.0-20221110122557-b4d7aa0cae70/go.mod h1:dcRBbpZMMJ9BS6cWKov1vrdBIfkesLuo+bT/GKCKrgA=
 github.com/Potterli20/dnscrypt-go v0.0.0-20221114122502-944df5ee065f h1:aPqGxWPUprybUJntzaG399ACXsgPAvN1VhtscXEYeII=
 github.com/Potterli20/dnscrypt-go v0.0.0-20221114122502-944df5ee065f/go.mod h1:ypfp/rCE12t4ODCeP77femlu8mCZLYjqj75IRK8++EI=
+github.com/Potterli20/dnscrypt-go v0.0.0-20221115005720-c3fe5af28b4c h1:h3sbqj0umJN7bRlYQBirQyy9AiN/tipGIqnoOcWNSVw=
+github.com/Potterli20/dnscrypt-go v0.0.0-20221115005720-c3fe5af28b4c/go.mod h1:ypfp/rCE12t4ODCeP77femlu8mCZLYjqj75IRK8++EI=
 github.com/Potterli20/go-flags-fork v0.0.0-20221108121840-ce4fea28f277 h1:KcXkGKWfhzE6pOOiu1HO2/1b3e49J6hOQ0eFEDPy+K4=
 github.com/Potterli20/go-flags-fork v0.0.0-20221108121840-ce4fea28f277/go.mod h1:y/FQWycwHcqkoPlpULpwt/KCr6g3G1GdnSeQVKLFzKM=
 github.com/Potterli20/golibs-fork v0.0.0-20221114021025-12499a91a8f7 h1:R9fEbcdEElwuJhcz3K5Ojm7hpHly2206kgEj1c891Hw=
@@ -64,8 +64,6 @@ golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACk
 golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550/go.mod h1:yigFU9vqHzYiE8UmvKecakEJjdnWj3jj499lnFckfCI=
 golang.org/x/crypto v0.2.0 h1:BRXPfhNivWL5Yq0BGQ39a2sW6t44aODpfxkWjYdzewE=
 golang.org/x/crypto v0.2.0/go.mod h1:hebNnKkNXi2UzZN1eVRvBB7co0a+JxK6XbPiWVs/3J4=
-golang.org/x/exp v0.0.0-20221111204811-129d8d6c17ab h1:1S7USr8/C0Sgk4egxq4zZ07zYt2Xh1IiFp8hUMXH/us=
-golang.org/x/exp v0.0.0-20221111204811-129d8d6c17ab/go.mod h1:CxIveKay+FTh1D0yPZemJVgC/95VzuuOLq5Qi4xnoYc=
 golang.org/x/exp v0.0.0-20221114191408-850992195362 h1:NoHlPRbyl1VFI6FjwHtPQCN7wAMXI6cKcqrmXhOOfBQ=
 golang.org/x/exp v0.0.0-20221114191408-850992195362/go.mod h1:CxIveKay+FTh1D0yPZemJVgC/95VzuuOLq5Qi4xnoYc=
 golang.org/x/mod v0.4.2/go.mod h1:s0Qsj1ACt9ePp/hMypM3fl4fZqREWJwdYDEqhRiZZUA=
