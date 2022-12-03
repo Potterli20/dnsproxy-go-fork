@@ -25,7 +25,7 @@ import (
 const (
 	// transportDefaultReadIdleTimeout is the default timeout for pinging
 	// idle connections in HTTP/2 transport.
-	transportDefaultReadIdleTimeout = 30 * time.Second
+	transportDefaultReadIdleTimeout = 10 * time.Second
 
 	// transportDefaultIdleConnTimeout is the default timeout for idle
 	// connections in HTTP transport.
@@ -33,11 +33,11 @@ const (
 
 	// dohMaxConnsPerHost controls the maximum number of connections for
 	// each host.
-	dohMaxConnsPerHost = 1
+	dohMaxConnsPerHost = 10
 
 	// dohMaxIdleConns controls the maximum number of connections being idle
 	// at the same time.
-	dohMaxIdleConns = 1
+	dohMaxIdleConns = 10
 )
 
 // dnsOverHTTPS is a struct that implements the Upstream interface for the
