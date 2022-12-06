@@ -3,8 +3,8 @@ module github.com/Potterli20/dnsproxy-go-fork
 go 1.19
 
 require (
-	github.com/Potterli20/dnscrypt-go v0.0.0-20221205004740-58167e5b9bfb
-	github.com/Potterli20/go-flags-fork v0.0.0-20221205003618-15e96b912061
+	github.com/Potterli20/dnscrypt-go v0.0.0-20221205121739-7181f7cf79ba
+	github.com/Potterli20/go-flags-fork v0.0.0-20221205121311-102a6d8f767d
 	github.com/Potterli20/golibs-fork v0.0.0-20221114021025-12499a91a8f7
 	github.com/ameshkov/dnsstamps v1.0.3
 	github.com/beefsack/go-rate v0.0.0-20220214233405-116f4ca011a0
@@ -31,7 +31,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.5.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	golang.org/x/crypto v0.3.0 // indirect
-	golang.org/x/exp v0.0.0-20221204150635-6dcec336b2bb // indirect
+	golang.org/x/exp v0.0.0-20221205204356-47842c84f3db // indirect
 	golang.org/x/mod v0.7.0 // indirect
 	golang.org/x/sys v0.3.0 // indirect
 	golang.org/x/text v0.5.0 // indirect
