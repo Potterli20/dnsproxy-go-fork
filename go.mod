@@ -12,7 +12,7 @@ require (
 	github.com/lucas-clemente/quic-go v0.31.0
 	github.com/miekg/dns v1.1.50
 	github.com/stretchr/testify v1.8.1
-	golang.org/x/net v0.2.0
+	golang.org/x/net v0.3.0
 	gopkg.in/yaml.v3 v3.0.1
 	zgo.at/zcache v1.2.0
 )
