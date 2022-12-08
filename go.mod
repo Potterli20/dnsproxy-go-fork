@@ -31,7 +31,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.5.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	golang.org/x/crypto v0.4.0 // indirect
-	golang.org/x/exp v0.0.0-20221207211629-99ab8fa1c11f // indirect
+	golang.org/x/exp v0.0.0-20221208044002-44028be4359e // indirect
 	golang.org/x/mod v0.7.0 // indirect
 	golang.org/x/sys v0.3.0 // indirect
 	golang.org/x/text v0.5.0 // indirect
