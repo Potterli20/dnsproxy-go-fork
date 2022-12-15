@@ -3,7 +3,7 @@
 package upstream
 
 import (
-	"github.com/AdguardTeam/golibs/errors"
+	"github.com/Potterli20/go-flags-fork/errors"
 	"golang.org/x/sys/windows"
 )
 
