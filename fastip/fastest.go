@@ -10,10 +10,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Potterli20/dnsproxy-go-fork/proxyutil"
+
 	"github.com/Potterli20/dnsproxy-go-fork/upstream"
 	"github.com/Potterli20/golibs-fork/cache"
 	"github.com/Potterli20/golibs-fork/log"
+	"github.com/Potterli20/golibs-fork/netutil"
 	"github.com/miekg/dns"
 	"golang.org/x/exp/maps"
 )
