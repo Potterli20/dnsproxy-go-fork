@@ -28,8 +28,8 @@ require (
 	github.com/google/pprof v0.0.0-20221219190121-3cb0bae90811 // indirect
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/marten-seemann/qpack v0.3.0 // indirect
-	github.com/marten-seemann/qtls-go1-18 v0.1.3 // indirect
-	github.com/marten-seemann/qtls-go1-19 v0.1.1 // indirect
+	github.com/marten-seemann/qtls-go1-18 v0.1.4 // indirect
+	github.com/marten-seemann/qtls-go1-19 v0.1.2 // indirect
 	github.com/onsi/ginkgo/v2 v2.6.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	golang.org/x/crypto v0.4.0 // indirect
