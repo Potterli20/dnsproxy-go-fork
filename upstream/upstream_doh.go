@@ -25,7 +25,7 @@ import (
 const (
 	// transportDefaultReadIdleTimeout is the default timeout for pinging
 	// idle connections in HTTP/2 transport.
-	transportDefaultReadIdleTimeout = 10 * time.Second
+	transportDefaultReadIdleTimeout = 5 * time.Second
 
 	// transportDefaultIdleConnTimeout is the default timeout for idle
 	// connections in HTTP transport.
