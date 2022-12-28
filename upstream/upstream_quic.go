@@ -31,7 +31,7 @@ const (
 	// https://pkg.go.dev/github.com/lucas-clemente/quic-go/internal/protocol#MaxKeepAliveInterval.
 	//
 	// TODO(ameshkov):  Consider making it configurable.
-	QUICKeepAlivePeriod = time.Second * 10
+	QUICKeepAlivePeriod = time.Second * 5
 )
 
 // dnsOverQUIC is a struct that implements the Upstream interface for the
