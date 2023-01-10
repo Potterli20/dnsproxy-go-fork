@@ -3,7 +3,7 @@ module github.com/Potterli20/dnsproxy-go-fork
 go 1.19
 
 require (
-	github.com/Potterli20/dnscrypt-go v0.0.0-20230109121751-79d5d77e271e
+	github.com/Potterli20/dnscrypt-go v0.0.0-20230110005121-f49963a8dbcb
 	github.com/Potterli20/go-flags-fork v0.0.0-20230105121328-343499d19367
 	github.com/Potterli20/golibs-fork v0.0.0-20230109021718-80d79b3f3b8b
 	github.com/ameshkov/dnsstamps v1.0.3

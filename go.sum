@@ -1,7 +1,7 @@
-github.com/Potterli20/dnscrypt-go v0.0.0-20230105121738-41517395e77a h1:KseUjOsqe2hyDwuen5caluUSGXlZApDpXR6uWLd0eCc=
-github.com/Potterli20/dnscrypt-go v0.0.0-20230105121738-41517395e77a/go.mod h1:C+Wc6GbxszDEy93QaGGPWHNvMx+TYxd5xWT7MBhgeHY=
 github.com/Potterli20/dnscrypt-go v0.0.0-20230109121751-79d5d77e271e h1:Uq70o0gEQpgADtvyTqEPOeJsqwttObw6HYXqCoJ6OyE=
 github.com/Potterli20/dnscrypt-go v0.0.0-20230109121751-79d5d77e271e/go.mod h1:vo5wauJuIzQRVBDndcfX1MuAhJFYSu9HF8uYiDTv5ho=
+github.com/Potterli20/dnscrypt-go v0.0.0-20230110005121-f49963a8dbcb h1:pL3J0OToNk/I94rDzyi53YgO8u004WdLLX8nAltpPWc=
+github.com/Potterli20/dnscrypt-go v0.0.0-20230110005121-f49963a8dbcb/go.mod h1:vo5wauJuIzQRVBDndcfX1MuAhJFYSu9HF8uYiDTv5ho=
 github.com/Potterli20/go-flags-fork v0.0.0-20230105121328-343499d19367 h1:Fk/zliZUUzmrTBBhP1jZIUemLRaTC50pUqxzDsI0BKc=
 github.com/Potterli20/go-flags-fork v0.0.0-20230105121328-343499d19367/go.mod h1:fxgCKaAiZ5s1gvXFfhymGvLZiOqERySJgz1hMWjb3fs=
 github.com/Potterli20/golibs-fork v0.0.0-20230109021718-80d79b3f3b8b h1:KYM5Kz49AJSFNhOeiD1y+PYOSPskrd2dMGCZ/983Im8=
@@ -43,8 +43,6 @@ github.com/marten-seemann/qtls-go1-19 v0.1.2 h1:ZevAEqKXH0bZmoOBPiqX2h5rhQ7cbZi+
 github.com/marten-seemann/qtls-go1-19 v0.1.2/go.mod h1:5HTDWtVudo/WFsHKRNuOhWlbdjrfs5JHrYb0wIJqGpI=
 github.com/miekg/dns v1.1.50 h1:DQUfb9uc6smULcREF09Uc+/Gd46YWqJd5DbpPE9xkcA=
 github.com/miekg/dns v1.1.50/go.mod h1:e3IlAVfNqAllflbibAZEWOXOQ+Ynzk/dDozDxY7XnME=
-github.com/onsi/ginkgo/v2 v2.6.1 h1:1xQPCjcqYw/J5LchOcp4/2q/jzJFjiAOc25chhnDw+Q=
-github.com/onsi/ginkgo/v2 v2.6.1/go.mod h1:yjiuMwPokqY1XauOgju45q3sJt6VzQ/Fict1LFVcsAo=
 github.com/onsi/ginkgo/v2 v2.7.0 h1:/XxtEV3I3Eif/HobnVx9YmJgk8ENdRsuUmM+fLCFNow=
 github.com/onsi/ginkgo/v2 v2.7.0/go.mod h1:yjiuMwPokqY1XauOgju45q3sJt6VzQ/Fict1LFVcsAo=
 github.com/onsi/gomega v1.24.1 h1:KORJXNNTzJXzu4ScJWssJfJMnJ+2QJqhoQSRwNlze9E=
