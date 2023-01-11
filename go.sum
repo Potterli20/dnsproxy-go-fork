@@ -1,5 +1,3 @@
-github.com/Potterli20/dnscrypt-go v0.0.0-20230109121751-79d5d77e271e h1:Uq70o0gEQpgADtvyTqEPOeJsqwttObw6HYXqCoJ6OyE=
-github.com/Potterli20/dnscrypt-go v0.0.0-20230109121751-79d5d77e271e/go.mod h1:vo5wauJuIzQRVBDndcfX1MuAhJFYSu9HF8uYiDTv5ho=
 github.com/Potterli20/dnscrypt-go v0.0.0-20230110005121-f49963a8dbcb h1:pL3J0OToNk/I94rDzyi53YgO8u004WdLLX8nAltpPWc=
 github.com/Potterli20/dnscrypt-go v0.0.0-20230110005121-f49963a8dbcb/go.mod h1:vo5wauJuIzQRVBDndcfX1MuAhJFYSu9HF8uYiDTv5ho=
 github.com/Potterli20/go-flags-fork v0.0.0-20230105121328-343499d19367 h1:Fk/zliZUUzmrTBBhP1jZIUemLRaTC50pUqxzDsI0BKc=
